@@ -15,11 +15,11 @@ install.packages(c(
 
 **Data**
 
-Input: river-quality/Monthly_River_Quality_Data_SDCC.geojson
-CRS (spatial work): EPSG:2157 (Irish Transverse Mercator / ITM)
+Input: river-quality/Monthly_River_Quality_Data_SDCC.geojson  
+CRS (spatial work): EPSG:2157 (Irish Transverse Mercator / ITM)  
 
 **Outputs**
 
-Plots (if enabled) → plots/
-Pairwise missingness PDF → pairwise_marginplots.pdf
+Plots (if enabled) → plots/  
+Pairwise missingness PDF → pairwise_marginplots.pdf  
 Optional CSVs from evaluate_gwr_model_csv()
